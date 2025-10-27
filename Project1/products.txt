@@ -1,0 +1,4 @@
+code, name,             unit price, flat comm, q1 comm, q2 comm, q3 comm, q4 comm
+AC,   Air Conditioners, 32000,      15,        15,      15,      20,      30
+ST,   Smart TVs,        25000,      15,        25,      20,      20,      25
+RV,   Robot Vacuums,    18000,      12,        12,      12,      15,      20
